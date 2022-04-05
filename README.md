@@ -1,8 +1,5 @@
 ### Hi, I am Alberto Nunes
 
-
-Here are some ideas to get you started:
-
 - 🔭 I want to program in the back-end
 - 🌱 learning Typescript
 - 😄 Pronouns: He/Him
