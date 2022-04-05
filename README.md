@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 - 🌱 learning Typescript
 - 😄 Pronouns: He/Him
 
-<div align="center">
+<div>
   <a href="https://github.com/albnunes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=albnunes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=albnunes&layout=compact&theme=dark"/>
