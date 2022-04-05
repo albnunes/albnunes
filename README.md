@@ -1,6 +1,6 @@
 ### Hi, I am Alberto Nunes
 
-- 🔭 I want to program in the back-end
+- 🔭 I want to be a back-end programmer
 - 🌱 learning Typescript
 - 😄 Pronouns: He/Him
 
