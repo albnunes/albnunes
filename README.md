@@ -1,8 +1,8 @@
 ### Hi, I am Alberto Nunes
 
-- 🔭 I want to be a back-end programmer
-- 🌱 learning Typescript
-- 😄 Pronouns: He/Him
+- 🔭 I want to be a senior back-end programmer
+- 🌱 learning DDD
+
 
 <div align = "inline_block">
   <a href="https://github.com/albnunes">
