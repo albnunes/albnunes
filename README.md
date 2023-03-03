@@ -7,9 +7,9 @@
 <div align = "inline_block">
   <a href="https://github.com/albnunes">
   <img height="216em" src="https://github-readme-stats.vercel.app/api?username=albnunes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=albnunes&layout=compact&theme=dark"/>
     </a>
 </div>
+<img height="285em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=albnunes&theme=dark"/>
 
 <div style="display: inline_block"><br>
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
