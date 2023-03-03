@@ -1,7 +1,7 @@
 ### Hi, I am Alberto Nunes
 
 - 🔭 I want to be a senior back-end programmer
-- 🌱 learning DDD
+- 🌱 learning to implement projects with DDD CQRS and ES
 
 
 <div align = "inline_block">
@@ -21,4 +21,4 @@
   <div>
   <a href="https://www.linkedin.com/in/alberto-nunes-a823451bb" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    
-  </div>
+ </div>
