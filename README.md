@@ -1,7 +1,6 @@
 ### Hi, I am Alberto Nunes
 
-- 🔭 I want to be a senior back-end programmer
-- 🌱 learning to implement projects with DDD CQRS and ES
+Self-taught, passionate full-stack developer with expertise in DDD, ES, TypeScript, and various JavaScript frameworks. I share my projects here and collaborate with the community. Constantly seeking learning and challenges in the universe of programming.
 
 
 <div align = "inline_block">
